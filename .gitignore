@@ -43,3 +43,6 @@ jspm_packages
 .results.json
 
 *.solution.*
+
+# gstack (global install)
+.amazonq/rules/gstack.md
